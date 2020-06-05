@@ -1,0 +1,16 @@
+name: angelica
+version: 1.2.3
+description: >-
+  Have you been turned into a newt?  Would you like to be?
+  This package can help. It has all of the
+  newt-transmogrification functionality you have been looking
+  for.
+homepage: https://example-pet-store.com/newtify
+documentation: https://example-pet-store.com/newtify/docs
+environment:
+dependencies:
+  angel_framework: ^2.1.1
+  pretty_logging: 1.0.0
+  logging: ^0.11.4
+  mysql1: ^0.17.1
+dev_dependencies:
